@@ -13,6 +13,7 @@ public class Estudiante
     private Integer semestre;
     private String estado;
     private Carrera carrera;
+    private Asignatura asignatura;
 
     //Constructor
     public Estudiante(String codigo, String nombre, String telefono, String email,
